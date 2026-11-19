@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>13,237</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>13,324</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-19 00:17 UTC</sub>
+<sub>Snapshot 2026-11-19 04:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,20 @@ Explore customer service, support, and customer success roles in this fresh slic
 
 ## Open jobs
 
-**13,237 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 00:17 UTC.** Apply links go to the employer's career page or hiring system.
+**13,324 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 04:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Customer Success Manager | theaccessgroup | United States Remote |  | 2026-11-19 | [Apply](https://theaccessgroup.wd103.myworkdayjobs.com/en-US/access_group_external_careers/job/United-States-Remote/Customer-Success-Manager_JR004573-1) |
+| Customer Service - Self Storage Manager | Public Storage | Burnsville, MN, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162409409) |
+| Customer Service - Self Storage Manager | Public Storage | Apple Valley, MN, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162409459) |
+| Customer Service - Self Storage Manager | Public Storage | Lakeville, MN, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162409509) |
+| Customer Service Rep(02802) - 305 W. Beaufort St. | Domino's | Normal, IL, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000162412819) |
+| Customer Service Rep(08785) - 2317 W University Dr | Domino's | Denton, TX, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000162412859) |
+| Customer Service Rep(02809) - 507 Commerce Drive | Domino's | Savoy, IL, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000162412909) |
+| Founding Customer Success Manager - Blueberry | pear-vc | San Francisco |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/Pear-VC/70e2b8a0-239d-43de-8802-1ec56fa169ef) |
+| Customer Support Specialist | AlphabeInsightInc | Cincinnati, OH, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162431609) |
 | Part-Time Bilingual Retail Sales and Customer Service Associate in Houston, TX... | westernunion | USA - TX - Houston 5716 H Bellair Blvd - Retail Branch Location |  | 2026-11-19 | [Apply](https://westernunion.wd5.myworkdayjobs.com/en-US/westernunionjobs/job/USA---TX---Houston-5716-H-Bellair-Blvd---Retail-Branch-Location/Part-Time-Bilingual-Retail-Sales-and-Customer-Service-Associate-in-Houston--TX-at-Bellaire-Blvd_JR0132826) |
 | Part-Time Bilingual Retail Sales and Customer Service Associate in Los Angeles,... | westernunion | USA CA - Los Angeles 2025 West 8th Street - Retail Branch Location |  | 2026-11-19 | [Apply](https://westernunion.wd5.myworkdayjobs.com/en-US/westernunionjobs/job/USA-CA---Los-Angeles-2025-West-8th-Street---Retail-Branch-Location/Part-Time-Bilingual-Retail-Sales-and-Customer-Service-Associate-in-Los-Angeles--CA-at-West-8th-St_JR0132874) |
 | Customer Service Representative I - remote | amynta | 4 Locations |  | 2026-11-19 | [Apply](https://amynta.wd5.myworkdayjobs.com/en-US/global/job/AZ---Remote/Customer-Service-Representative-I----remote_2601-0032) |
@@ -69,13 +78,19 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Seasonal Customer Service Representative - Irvine Spectrum Center | Nordstrom | Irvine, CA |  | 2026-11-19 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Irvine-CA/Seasonal-Customer-Service-Representative---Irvine-Spectrum-Center_R-899486) |
 | Seasonal Customer Service Representative - The Shops at La Cantera | Nordstrom | San Antonio, TX |  | 2026-11-19 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/San-Antonio-TX/Seasonal-Customer-Service-Representative---The-Shops-at-La-Cantera_R-899560) |
 | Seasonal & Regular Customer Service Representative - The Woodlands | Nordstrom | The Woodlands, TX |  | 2026-11-19 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/The-Woodlands-TX/Seasonal---Regular-Customer-Service-Representative---The-Woodlands_R-899562) |
+| Veterinary Client Service Representative - Overnights | MedVet | Sunset, UT, United States |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/medvet/job/ooS4AfwE) |
+| Veterinary Client Service Representative | MedVet | Austin, TX, United States |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/medvet/job/ot7ZAfwT) |
+| Patient Services Representative - Weekend Package: Excellent Shift Differential! | Medical Associates | Dubuque, IA, United States |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/mahealthcare/job/o4m5AfwP) |
+| Patient Services Representative - Part-Time Overnight (Midnight - 8am): Excelle... | Medical Associates | Dubuque, IA, United States |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/mahealthcare/job/oZA1AfwU) |
+| Call Center Coordinator | SSSH3 Inc | Rocky Hill, CT |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662113) |
+| Customer Service Representative | premiertruck | South Dallas, TX |  | 2026-11-18 | [Apply](https://jobs.lever.co/premiertruck/62d076e0-601b-4cc6-905c-b6683710e021) |
+| Customer Support Analyst II | pditechnologies | Brentwood, TN |  | 2026-11-18 | [Apply](https://jobs.lever.co/pditechnologies/c254f9bf-b0aa-4af2-857d-6d02d6bd308f) |
+| Senior Customer Success Manager- Ad Tech Experience Required! | freestar | Remote |  | 2026-11-18 | [Apply](https://freestar.io/careers/?gh_jid=8950891002) |
+| Technical Customer Success Manager - xMatters | everbridge | United States |  | 2026-11-18 | [Apply](https://jobs.lever.co/everbridge/fa2e2e32-d2bd-4a22-b8e1-448e25958deb) |
 | Driver Support Representative | Swift Transportation | Sumner, WA, United States |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/knight/job/oDG2AfwF) |
 | Customer Service Representative (Onsite) | Mate Precision Technologies | Anoka, MN |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4473707) |
 | Customer Success Manager - Moveworks | ServiceNow | San Diego, California, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162408169) |
 | Sr. Customer Success Manager - Moveworks | ServiceNow | San Diego, California, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162408293) |
-| Customer Service - Self Storage Manager | Public Storage | Milwaukie, OR, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162390449) |
-| Customer Service - Self Storage Manager | Public Storage | South Indianapolis, IN, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162396981) |
-| Customer Service - Self Storage Manager | Public Storage | Southport, IN, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162398589) |
 | Supervisor of Client Services | strivepharmacy | Mesa, AZ |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/strivepharmacy/jobs/5290212007) |
 | Casino Customer Support Agent - Evenings & Weekends | penninteractive | Remote, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/penninteractive/jobs/6265520004) |
 | Veterinary Customer Service Representative - Russian Hill | modernanimal | Russian Hill, CA |  | 2026-11-18 | [Apply](https://app.careerpuck.com/job-board/modernanimal/job/6265787004?gh_jid=6265787004) |
@@ -121,9 +136,6 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Pre-Print Client Services Administrator | n2co | Remote |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/n2co/jobs/5485835008) |
 | Manager, Customer Success (Youth, Club, and High School) | hudl | Lincoln, NE, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/hudl/jobs/8400058) |
 | Principal Customer Success Manager | hginsights | Remote (US) |  | 2026-11-18 | [Apply](https://hginsights.com/hg-insights-careers/current-opportunities/?gh_jid=8208399003) |
-| Customer Service Rep(01640) - 105 Long Rd | Domino's | Chesterfield, MO, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000162340505) |
-| Customer Service Rep (01426) - 3900 South 7th Street | Domino's | Louisville, KY, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000162345236) |
-| Customer Service Rep(01510) - 11240 Manchester Rd | Domino's | St Louis, MO, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000162342243) |
 | Senior Customer Success Manager | contentful | New York, New York, United States |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/contentful/jobs/8385618) |
 | Customer Success Associate (Mortgage Loan Originator) | Trovy | South Jordan, Utah |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/trovy/5ff0378c-b1b4-4e7e-8637-623abfe35e9d) |
 | Customer Support Agent - (Russian Speaking) (Bench Team) | bpcs | Bellevue, WA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/bpcs/jobs/8400479) |
@@ -133,7 +145,6 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Senior Client Success Manager | Hinge Health | Remote US |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/hinge-health/e7852ace-0947-4708-b7c5-b5623a988a76) |
 | Call Center Representative | AlphabeInsightInc | New Orleans, LA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162358779) |
 | Customer Service Specialist | AlphabeInsightInc | Tampa, FL, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162363579) |
-| Call Center Agent | AlphabeInsightInc | Tampa, FL, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162363861) |
 | Customer Success Manager | GovEagle | New York City |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/GovEagle/6c0af49c-f144-4447-9317-db9a8b704488) |
 | Scale Customer Success Manager | envoy | Denver, CO |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/Envoy/55d31732-187d-484f-af7f-f6caae91a92f) |
 | Director of Enterprise Customer Success | acuitymd | Boston or Remote |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/acuitymd/jobs/6265164004) |
@@ -180,8 +191,6 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Customer Service Representative | boydgroup | WA Kennewick - 131129 |  | 2026-11-18 | [Apply](https://boydgroup.wd1.myworkdayjobs.com/en-US/boydcareers/job/WA-Kennewick---131129/Customer-Service-Representative_R068409) |
 | Driver Support Specialist | Swift Transportation | Memphis, TN, United States |  | 2026-11-17 | [Apply](https://jobs.jobvite.com/knight/job/oUm3AfwD) |
 | Customer Service Representative Medical Equipment | Avenue Mori Medical Equipment Inc | El Paso, TX |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4289610) |
-| Client Success Manager | BetaNXT | Cary, NC, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=21b5e71b-5e64-4d33-b8de-26ea145e664a&ccId=19000101_000001&jobId=621848&lang=en_US&source=CC2) |
-| Customer Service Representative | BancFirst | Bristow, OK, US |  | 2026-11-17 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1da3e70c-e60a-466c-a367-419990b1b80f&ccId=19000101_000001&jobId=641524&lang=en_US&source=CC2) |
 | Customer Service Representative (Cashier) - 22 | Buck Management Corporation | Charleston, SC |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671575) |
 | Customer Service Manager | RICK'S RANCHWEAR INC | Youngstown, OH |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671342) |
 | Customer Service Representative | BLUE CARDINAL HOME SERVICES, LLC | Burke, TX |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671056) |
@@ -190,21 +199,12 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Customer Service Representative - Naval Surface Warfare Center | TLN Worldwide Enterprises Inc | Port Hueneme, CA |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4667916) |
 | Senior Customer Success Manager | zenoti | Remote, United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/zenoti/jobs/8196376003) |
 | Senior Customer Success Manager | zenoti | Seattle, Washington, United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/zenoti/jobs/8031118003) |
-| Customer Success Manager | firemon | USA, Remote |  | 2026-11-17 | [Apply](https://jobs.lever.co/firemon/df137aff-e1e9-4750-95ff-05578da22114) |
 | Senior Customer Success Manager | buildkite | United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/buildkite/jobs/5485995008) |
 | Senior Customer Success Manager | aidashinc | US Remote |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/aidashinc/jobs/4510317009) |
 | Care4Kids Client Services Representative | Uwc + Best Places 2 | Rocky Hill, CT |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4673048) |
 | Remote Customer Support Specialist | 75F APAC | Sherman, TX |  | 2026-11-17 | [Apply](https://75f-apac.breezy.hr/p/479128528418-remote-customer-support-specialist) |
 | Customer Success Manager - Remote | steercrm | United States (Remote) |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/steercrm/jobs/5298911007) |
 | Call Center Representative | spsnorthamerica | New York, New York, United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/spsnorthamerica/jobs/5485919008) |
-| Anoka Customer Service Representative (CSR) | packardculliganwater | Anoka, MN |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/packardculliganwater/jobs/8207620003) |
-| Principal, Customer Success | foliahealth | Boston, MA |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/foliahealth/jobs/4509214009) |
-| Customer Success Associate | figure | Reno, NV |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/figure/jobs/8791969002) |
-| Senior Customer Support Engineer | Collibra | Raleigh, North Carolina, USA |  | 2026-11-17 | [Apply](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8396720) |
-| Customer Success Lead | solcoa | Alameda, California |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/solcoa/74964c71-a96a-42bb-9628-d9438b1fbc82) |
-| Customer Success Manager | simpleclosure | Remote United States |  | 2026-11-17 | [Apply](https://jobs.ashbyhq.com/simpleclosure/7341c7b1-f2dc-42dd-bb68-ece1351a6fa9) |
-| Customer Success Manager I | Axon | Seattle, Washington, United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/axon/jobs/8207849003) |
-| Customer Success Manager I | Axon | Boston, Massachusetts, United States |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/axon/jobs/8207846003) |
 <!-- JOBS_TABLE_END -->
 
 <details>
