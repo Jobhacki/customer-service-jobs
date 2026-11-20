@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>14,620</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-20</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>14,484</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-20</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-20 08:16 UTC</sub>
+<sub>Snapshot 2026-11-20 12:17 UTC</sub>
 
 </div>
 
@@ -50,14 +50,17 @@ Explore customer service, support, and customer success roles in this fresh slic
 
 ## Open jobs
 
-**14,620 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-20 08:16 UTC.** Apply links go to the employer's career page or hiring system.
+**14,484 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-20 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Customer Service Representative | circlek | Store 2704881 Loxahatchee FL |  | 2026-11-20 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2704881-Loxahatchee-FL/Customer-Service-Representative_R637735-1) |
-| Customer Service Representative | circlek | Store 2709664 Yuma AZ |  | 2026-11-20 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2709664-Yuma-AZ/Customer-Service-Representative_R637817-1) |
-| Customer Service Representative | circlek | Store 2708195 Shreveport LA |  | 2026-11-20 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2708195-Shreveport-LA/Customer-Service-Representative_R637821-1) |
+| DHS Customer Service Specialist (Bilingual) | Arlington County VA | Arlington, VA, United States |  | 2026-11-20 | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1931) |
+| Retail Store Customer Service Specialist | Sherwin-Williams | Lubbock, TX, United States |  | 2026-11-20 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629681) |
+| Customer Support Specialist I | ADP employer ad5d0a72 | Greenville, SC, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ad5d0a72-3ccd-46ca-a5ff-6262052ecdd1&ccId=19000101_000001&jobId=649351&lang=en_US&source=CC2) |
+| Customer Service Representative | circlek | Store 2709775 Naples FL |  | 2026-11-20 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2709775-Naples-FL/Customer-Service-Representative_R637825-1) |
+| Customer Service Representative | circlek | Store 2709775 Naples FL |  | 2026-11-20 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2709775-Naples-FL/Customer-Service-Representative_R637826-1) |
+| Customer Service Representative | circlek | Store 2723071 Myrtle Beach SC |  | 2026-11-20 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2723071-Myrtle-Beach-SC/Customer-Service-Representative_R637828-1) |
 | Call Center Agent | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162656361) |
 | Call Center Support Representative | att | Atlanta, Georgia |  | 2026-11-20 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Atlanta-Georgia/Call-Center-Support-Representative_R-129053) |
 | Customer Service Rep(05548) - 900 W. Cooksey Dr. Suite E & F | Domino's | Thomasville, NC, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000162624180) |
@@ -77,9 +80,20 @@ Explore customer service, support, and customer success roles in this fresh slic
 | CLUB Customer Service Outfitter - Seasonal | basspro | Broken Arrow, OK |  | 2026-11-20 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Broken-Arrow-OK/CLUB-Customer-Service-Outfitter---Seasonal_R273070) |
 | Business Insurance- Customer Service Representative | Travelers | 2 Locations |  | 2026-11-20 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/WA---Spokane-Valley/Business-Insurance--Customer-Service-Representative_R-53828) |
 | Business Insurance- Bi-Lingual Customer Service Representative | Travelers | 3 Locations |  | 2026-11-20 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/WA---Spokane-Valley/Business-Insurance--Bi-Lingual-Customer-Service-Representative_R-53843) |
-| Support Agent (Contract) | Tutored by Teachers | US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/29D0547C16) |
-| Enterprise Customer Success Manager | zocks | Remote US |  | 2026-11-19 | [Apply](https://jobs.lever.co/zocks/2fb04501-b32e-4a30-85ec-85b9c821bbfe) |
-| Contact Center Representative | wellfit | Irving, TX |  | 2026-11-19 | [Apply](https://jobs.lever.co/wellfit/315ae6af-e47e-4d3a-9f30-c3ce2b04c540) |
+| Call Center Service Representative - Remote (8:00 am-4:30 pm MST) - UTAH – Janu... | Zions Bank | Midvale, UT, US |  | 2026-11-19 | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=072196&lang=en) |
+| Call Center Service Representative - Remote (7:00 am-3:30 pm PST) - NEVADA – Ja... | Zions Bank | Las Vegas, NV, US |  | 2026-11-19 | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=072197&lang=en) |
+| Call Center Service Representative - Remote (8:00 am-4:30 pm MST) - IDAHO – Jan... | Zions Bank | Ammon, ID, US |  | 2026-11-19 | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=072199&lang=en) |
+| Team Lead, Customer Service | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-19 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=987280&lang=en) |
+| Customer Service Representative | Chubb | Whitehouse Station, NJ, United States |  | 2026-11-19 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37342) |
+| Client Services Specialist III | UL Solutions | Lowell, AR, United States |  | 2026-11-19 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11567) |
+| DWU - CEP(HDM) - Support Specialist Tool Maker - 2nd Shift | Cummins | Columbus, IN, United States |  | 2026-11-19 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2442201) |
+| Customer Service Attendant - Part-Time | Securitas | Williston, ND, United States |  | 2026-11-19 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177379) |
+| Customer Service Attendant - Full-Time | Securitas | Williston, ND, United States |  | 2026-11-19 | [Apply](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177377) |
+| Multi-Location Customer Service Specialist | Sherwin-Williams | Houston, TX, United States |  | 2026-11-19 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629700) |
+| Multi-Location Customer Service Specialist | Sherwin-Williams | Houston, TX, United States |  | 2026-11-19 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629698) |
+| Clinical Apps Technical Support Specialist | Hologic | Marlborough, MA, United States |  | 2026-11-19 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12765) |
+| Customer Success Representative | Urgo Medical North America LLC | Fort Worth, TX |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679780) |
+| Customer Service Representative - Nashville | happyhiller | Nashville, TN |  | 2026-11-19 | [Apply](https://jobs.lever.co/happyhiller/9372b820-b7a5-4b09-a9fc-80762ddecf2f) |
 | Member Services Team Lead | Auburn YMCA | Auburn, NY |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4330050) |
 | CUSTOMER SUPPORT REPRESENTATIVE (ONSITE M-F 8AM-5PM) | RADIANS INC | SALT LAKE CITY, UT |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4664496) |
 | Full Time Customer Service Lead, Pet | Zamzows Inc | Boise, ID |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4656068) |
@@ -164,10 +178,6 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Field Tech Support Specialist - Childress, TX | neweratech | Childress, TX |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/neweratech/jobs/8943759002) |
 | Customer Service Assistant | AlphabeInsightInc | Oklahoma City, OK, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162539899) |
 | Veterinary Customer Service Representative | Alliance Animal Health | Augusta, GA, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/AllianceAnimalHealth/744000162550739) |
-| Store Customer Service Specialist | Sherwin-Williams | Perry, FL, United States |  | 2026-11-19 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629554) |
-| Remote Customer Service Representative - Part Time | usasurveyjob | Corona, California |  | 2026-11-19 | [Apply](https://jobs.lever.co/usasurveyjob/af2590a3-635e-4ac1-8307-4def0fb34a3d) |
-| Remote Customer Service Representative - Part Time | usasurveyjob | Moreno Valley, California |  | 2026-11-19 | [Apply](https://jobs.lever.co/usasurveyjob/5ebfb866-034f-446c-9a3a-a7217c1404e6) |
-| Remote Customer Service Representative - Part Time | usasurveyjob | Paterson, New Jersey |  | 2026-11-19 | [Apply](https://jobs.lever.co/usasurveyjob/2a886fe0-0cc5-45ab-ad2c-34faa909fe66) |
 | Customer Success Manager - Guided - West Coast | n8n | Washington State |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/n8n/4b44cb99-be47-425c-bba6-8f9976c71ca8) |
 | CPC Processor Customer Support | datavant2 | Remote - United States |  | 2026-11-19 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5461217008) |
 | Founding Customer Success Manager | daydream | San Francisco Office |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/daydream/1f25994f-6b51-4054-b225-7af738993c75) |
@@ -179,6 +189,7 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Customer Success Associate | axos | Lombard, IL |  | 2026-11-19 | [Apply](https://axos.wd5.myworkdayjobs.com/en-US/axos/job/Lombard-IL/Customer-Success-Associate_JR5893) |
 | Member Services Lead(USA) Member Team Lead | Walmart | (USA) SC FLORENCE 06571 SAM'S CLUB |  | 2026-11-19 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-SC-FLORENCE-06571-SAMS-CLUB/Member-Services-Lead-USA--Member-Team-Lead_R-2714821) |
 | Senior Customer Success Manager | Workday | 10 Locations |  | 2026-11-19 | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Customer-Success-Manager_JR-0111765) |
+| Account/Project Support Specialist II | AMECO | Harrison, OH, US |  | 2026-11-18 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b4760739-b8a5-4794-a213-6c48feb03c10&ccId=19000101_000001&jobId=600363&lang=en_US&source=CC2) |
 | Front Desk Client Services Coordinator | Community Medical Services | Mesa, AZ |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4649068) |
 | Front Desk Client Services Coordinator | Community Medical Services | Phoenix, AZ |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4636426) |
 | Member Service Representative | Mountainside Fitness Acquisitions LLC | Mesa, AZ |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4674170) |
@@ -186,25 +197,14 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Legal Customer Support Administrator (MUST have at least an AA degree) | Legacy Capital Services | Las Vegas, NV |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4294554) |
 | CONTACT CENTER AGENT 1 | Inland Southern California United Way | Riverside, CA |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676780) |
 | Patient Engagement Representative-Call Center | River Valley Health | Williamsport, PA |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/8282) |
-| Customer Service Specialist - Seattle, WA | Zions Bank | Seattle, WA, US |  | 2026-11-18 | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=072186&lang=en) |
+| Customer Service Coordinator, Loan Admin | glsllc | Greenville, South Carolina |  | 2026-11-18 | [Apply](https://jobs.lever.co/glsllc/0ab2e1d7-6a70-4799-bea1-db38a3697e0b) |
 | Lead Customer Success Representative | Honeywell | Hamilton, NJ, United States |  | 2026-11-18 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162461) |
 | Fraud Customer Support Sr Specialist | Citizens Financial Group | Pittsburgh, PA, United States |  | 2026-11-18 | [Apply](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50411) |
 | Customer Service Representative | Southern Company | Gulfport, MS, United States |  | 2026-11-18 | [Apply](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22784) |
-| Customer Service Specialist - Part-time | Sherwin-Williams | Broomfield, CO, United States |  | 2026-11-18 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629591) |
-| Multi-Location Customer Service Specialist | Sherwin-Williams | York, PA, United States |  | 2026-11-18 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629581) |
 | Senior Customer Service Specialist | Oracle | Kansas City, MO, United States |  | 2026-11-18 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343456) |
 | Customer Service Representative | Pella Corporation | Medford, WI, United States |  | 2026-11-18 | [Apply](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/254272) |
 | Associate Transit Customer Service Specialist Series | Metropolitan Transportation Authority | Long Island City, NY, USA |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/oIi6Afwq) |
 | Customer Service Specialist | Metropolitan Transportation Authority | New York, NY, USA |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/metropolitantransportationauthority/job/oxc7Afwa) |
-| Veterinary Client Service Representative - Overnights | MedVet | Sunset, UT, United States |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/medvet/job/ooS4AfwE) |
-| Veterinary Client Service Representative | MedVet | Austin, TX, United States |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/medvet/job/ot7ZAfwT) |
-| Patient Services Representative - Weekend Package: Excellent Shift Differential! | Medical Associates | Dubuque, IA, United States |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/mahealthcare/job/o4m5AfwP) |
-| Patient Services Representative - Part-Time Overnight (Midnight - 8am): Excelle... | Medical Associates | Dubuque, IA, United States |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/mahealthcare/job/oZA1AfwU) |
-| Call Center Coordinator | SSSH3 Inc | Rocky Hill, CT |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662113) |
-| Senior Customer Success Manager- Ad Tech Experience Required! | freestar | Remote |  | 2026-11-18 | [Apply](https://freestar.io/careers/?gh_jid=8950891002) |
-| Driver Support Representative | Swift Transportation | Sumner, WA, United States |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/knight/job/oDG2AfwF) |
-| Customer Service Representative (Onsite) | Mate Precision Technologies | Anoka, MN |  | 2026-11-18 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4473707) |
-| Customer Success Manager - Moveworks | ServiceNow | San Diego, California, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162408169) |
 <!-- JOBS_TABLE_END -->
 
 <details>
