@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>15,420</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>15,406</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 08:17 UTC</sub>
+<sub>Snapshot 2026-11-22 12:17 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ Explore customer service, support, and customer success roles in this fresh slic
 
 ## Open jobs
 
-**15,420 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 08:17 UTC.** Apply links go to the employer's career page or hiring system.
+**15,406 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -61,13 +61,13 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Customer Service Rep(01489) - 2900 Jackson St | Domino's | Paducah, KY, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163030808) |
 | Customer Service Rep(09616) - 10815 Colonel Glenn Rd. | Domino's | Little Rock, AR, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163030870) |
 | Customer Service Representative | circlek | Store 2743539 Columbus OH |  | 2026-11-22 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2743539-Columbus-OH/Customer-Service-Representative_R638181-1) |
+| Store Customer Service Specialist | Sherwin-Williams | Auburn, AL, United States |  | 2026-11-21 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629441) |
 | Customer Service Representative | circlek | Store 2741729 Lafayette LA |  | 2026-11-21 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2741729-Lafayette-LA/Customer-Service-Representative_R638166-1) |
 | Customer Service - Self Storage Manager | Public Storage | Warwick, RI, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162963509) |
 | Customer Service - Self Storage Manager | Public Storage | Providence, RI, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162963569) |
 | Customer Service - Self Storage Manager | Public Storage | Cranston, RI, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162963450) |
 | Bilingual Customer Service Specialist (Spanish) | Sherwin-Williams | Tolleson, AZ, United States |  | 2026-11-21 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629845) |
 | Bilingual Customer Service Specialist (Spanish) | Sherwin-Williams | Tempe, AZ, United States |  | 2026-11-21 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629840) |
-| Full-time Customer Service Specialist | Sherwin-Williams | Kaneohe, HI, United States |  | 2026-11-21 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629790) |
 | Guest Services Agent, Full-Time | AccorHotel | Honolulu, HI, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/AccorHotel/744000162931872) |
 | Customer Service Representative - Lake Village, AR | dynastymanagement | Lake Village, AR |  | 2026-11-21 | [Apply](https://dynastymanagement.wd12.myworkdayjobs.com/en-US/scott_petroleum/job/Lake-Village-AR/Customer-Service-Representative---Lake-Village--AR_JR800) |
 | Call Center Representative | ascensushr | 13 Locations |  | 2026-11-21 | [Apply](https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Chicago-IL/Call-Center-Representative_R0022930) |
@@ -87,6 +87,9 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Seasonal Customer Service Representative - Park Meadows | Nordstrom | Lone Tree, CO |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Lone-Tree-CO/Seasonal-Customer-Service-Representative---Park-Meadows_R-900116) |
 | Seasonal Customer Service - Tanasbourne Town Center Rack | Nordstrom | Beaverton, OR |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Beaverton-OR/Seasonal-Customer-Service---Tanasbourne-Town-Center-Rack_R-900129) |
 | Customer Service - Clairemont Town Square Rack | Nordstrom | San Diego, CA |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/San-Diego-CA/Customer-Service---Clairemont-Town-Square-Rack_R-900151) |
+| Customer Service Representative | Watercress Financial Group LLC | West Des Moines, IA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681343) |
+| Bilingual Customer Service Representative | Watercress Financial Group LLC | West Des Moines, IA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681355) |
+| Contact Center Team Lead | SmartFinancial | Tampa, Florida, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/3FCBD4FA83) |
 | Contact Center Representative 1 | Sunward | Albuquerque, NM |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4500152) |
 | Assistant Customer Experience Manager - Call Center | Standard Heating & Air Conditioning Inc | Minneapolis, MN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681779) |
 | Customer Service Representative | OpenRoad | Baytown, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682151) |
@@ -109,7 +112,6 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Logistics Customer Service Agent - New Orleans | Expeditors | Metairie, LA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000162832539) |
 | Senior Customer Success Manager | prefect | Remote |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/prefect/943b33ab-ff38-42c6-aa5d-08e35cf98c7c) |
 | Customer Support Team Lead, Insurance | Jerry | Dallas, Texas |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/c462d2ed-1b1e-4413-95bf-b62d9fb91486) |
-| Customer Success Associate, Velocity | captivateiq | Remote USA |  | 2026-11-20 | [Apply](https://jobs.lever.co/captivateiq/2202888c-0538-4232-86d7-79916bb6d966) |
 | Customer Success Manager | assetwatch | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/assetwatch/jobs/4756936005) |
 | Customer Support | base-power | Austin, TX |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/base-power/e32a8d00-43a8-4231-8654-a51e7cbd1675) |
 | Customer Service Representative | AbbVie | Austin, TX, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017016036) |
@@ -138,6 +140,7 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Customer Service Representative / Veterinary Assistant | lakefieldveterinarygroup | Juanita Bay Veterinary Hospital - Kirkland, Washington |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/lakefieldveterinarygroup/jobs/4517121009) |
 | Customer Service Representative I | Eurofins | Fairfield, OH, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162795991) |
 | Email Customer Service Representative | Hearst | Boone, IA, United States; Des Moines, IA, United States; Wilton, IA,... |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/hearst/jobs/4480521009) |
+| Customer Success Engineer | ethena | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/ethena/e92361ad-b085-4957-9bde-f28b2113d24c) |
 | CPC Processor Customer Support | datavant2 | Remote - United States |  | 2026-11-20 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5468093008) |
 | Accounts Payable Customer Support Specialist (Remote) | Switchboard | Denver |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/switchboard/dd81d8ee-c17d-4eaa-8119-2bdac7034027) |
 | Enterprise Customer Success Manager | sprig | San Francisco, CA |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/sprig/c4816db4-92af-476c-812b-9efa22275cef) |
@@ -188,6 +191,8 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Customer Experience Customer Success Specialist | cisco | RTP, North Carolina, US |  | 2026-11-20 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Customer-Experience-Customer-Success-Specialist_2031845-1) |
 | Business Insurance- Customer Service Representative | Travelers | 2 Locations |  | 2026-11-20 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/WA---Spokane-Valley/Business-Insurance--Customer-Service-Representative_R-53828) |
 | Business Insurance- Bi-Lingual Customer Service Representative | Travelers | 3 Locations |  | 2026-11-20 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/WA---Spokane-Valley/Business-Insurance--Bi-Lingual-Customer-Service-Representative_R-53843) |
+| 4Schools Technical Support Specialist | Cooperative Educational Service Agency 6 | Oshkosh, WI |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4535833) |
+| Customer Support Representative | Johnson Health Tech Companies | Cottage Grove, WI |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680454) |
 | Customer Service Representative | OpenRoad | Amarillo, TX |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679664) |
 | Customer Service Representative | Veritas HHS LLC | Dyersburg, TN |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/2686276) |
 | Experienced VMI Support Representative | Align Aerospace | Chatsworth, CA |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4671718) |
@@ -200,11 +205,6 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Customer Service Representative- Bakersfield 1.1 | Universal Healthcare MSO LLC | Bakersfield, CA |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679579) |
 | Call Center Service Representative - Remote (8:00 am-4:30 pm MST) - UTAH – Janu... | Zions Bank | Midvale, UT, US |  | 2026-11-19 | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=072196&lang=en) |
 | Call Center Service Representative - Remote (7:00 am-3:30 pm PST) - NEVADA – Ja... | Zions Bank | Las Vegas, NV, US |  | 2026-11-19 | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=072197&lang=en) |
-| Call Center Service Representative - Remote (8:00 am-4:30 pm MST) - IDAHO – Jan... | Zions Bank | Ammon, ID, US |  | 2026-11-19 | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=072199&lang=en) |
-| Team Lead, Customer Service | UT Southwestern Medical Center | Dallas, TX, US |  | 2026-11-19 | [Apply](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=987280&lang=en) |
-| Customer Service Representative | Chubb | Whitehouse Station, NJ, United States |  | 2026-11-19 | [Apply](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/37342) |
-| Client Services Specialist III | UL Solutions | Lowell, AR, United States |  | 2026-11-19 | [Apply](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/11567) |
-| DWU - CEP(HDM) - Support Specialist Tool Maker - 2nd Shift | Cummins | Columbus, IN, United States |  | 2026-11-19 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2442201) |
 <!-- JOBS_TABLE_END -->
 
 <details>
