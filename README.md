@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>15,475</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>15,626</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-23 00:17 UTC</sub>
+<sub>Snapshot 2026-11-23 04:18 UTC</sub>
 
 </div>
 
@@ -50,19 +50,19 @@ Explore customer service, support, and customer success roles in this fresh slic
 
 ## Open jobs
 
-**15,475 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 00:17 UTC.** Apply links go to the employer's career page or hiring system.
+**15,626 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 04:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Customer Service Rep(06984) - 10910 North Central Expressway, Suite 60 | Domino's | Dallas, TX, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163107799) |
+| Customer Service Rep(5852) - 2304 Columbiana Road | Domino's | Vestavia Hills, AL, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163107347) |
+| Customer Service Rep (5182) - 101 Nature Walk Prkwy | Domino's | St. Augustine, FL, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163107849) |
 | Customer Service Representative | circlek | Store 2745154 Albany GA |  | 2026-11-23 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2745154-Albany-GA/Customer-Service-Representative_R638224-1) |
 | Customer Service Representative | circlek | Store 4702232 Seymour IN |  | 2026-11-23 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-4702232-Seymour-IN/Customer-Service-Representative_R638227-1) |
 | Customer Service Representative | circlek | Store 4702232 Seymour IN |  | 2026-11-23 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-4702232-Seymour-IN/Customer-Service-Representative_R638228-1) |
 | Client Service Associate | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163097279) |
 | Customer Success Specialist, Renewals & Growth | leveltenenergy | Denver, CO; Seattle, WA; Remote, US |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/leveltenenergy/jobs/6236410004) |
-| Customer Service Rep(05858) - 964 Gilbert Ferry Rd. | Domino's | Attalla, AL, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163029381) |
-| Customer Service Rep(01489) - 2900 Jackson St | Domino's | Paducah, KY, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163030808) |
-| Customer Service Rep(09616) - 10815 Colonel Glenn Rd. | Domino's | Little Rock, AR, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163030870) |
 | Store Customer Service Specialist | Sherwin-Williams | Auburn, AL, United States |  | 2026-11-21 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629441) |
 | Customer Service - Self Storage Manager | Public Storage | Warwick, RI, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162963509) |
 | Customer Service - Self Storage Manager | Public Storage | Providence, RI, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162963569) |
@@ -95,6 +95,7 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Contact Center Representative 1 | Sunward | Albuquerque, NM |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4500152) |
 | Assistant Customer Experience Manager - Call Center | Standard Heating & Air Conditioning Inc | Minneapolis, MN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681779) |
 | Customer Service Representative | OpenRoad | Baytown, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682151) |
+| Transportation Customer Service Specialist I | imh | Home Services - Salt Lake City |  | 2026-11-20 | [Apply](https://imh.wd108.myworkdayjobs.com/en-US/intermountaincareers/job/Home-Services---Salt-Lake-City/Transportation-Customer-Service-Specialist-I_R190266) |
 | Cashier/Customer Service Representative | Mercedes-Benz of Fredericksburg | Fredericksburg, VA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1681125) |
 | Specialist, Customer Success (Higher Education) | Pearson | United States |  | 2026-11-20 | [Apply](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26639) |
 | Customer Support Representative (Dallas, Texas) | Texas Instruments | Dallas, TX, United States |  | 2026-11-20 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019849) |
@@ -114,7 +115,6 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Logistics Customer Service Agent - New Orleans | Expeditors | Metairie, LA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000162832539) |
 | Senior Customer Success Manager | prefect | Remote |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/prefect/943b33ab-ff38-42c6-aa5d-08e35cf98c7c) |
 | Customer Support Team Lead, Insurance | Jerry | Dallas, Texas |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/c462d2ed-1b1e-4413-95bf-b62d9fb91486) |
-| Customer Success Associate, Velocity | captivateiq | Remote USA |  | 2026-11-20 | [Apply](https://jobs.lever.co/captivateiq/2202888c-0538-4232-86d7-79916bb6d966) |
 | Customer Success Manager | assetwatch | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/assetwatch/jobs/4756936005) |
 | Customer Support | base-power | Austin, TX |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/base-power/e32a8d00-43a8-4231-8654-a51e7cbd1675) |
 | Customer Service Representative | AbbVie | Austin, TX, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017016036) |
