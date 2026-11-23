@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>16,326</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>16,365</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-23 12:19 UTC</sub>
+<sub>Snapshot 2026-11-23 16:17 UTC</sub>
 
 </div>
 
@@ -50,31 +50,53 @@ Explore customer service, support, and customer success roles in this fresh slic
 
 ## Open jobs
 
-**16,326 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 12:19 UTC.** Apply links go to the employer's career page or hiring system.
+**16,365 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 16:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Customer Service Representative | circlek | Store 2723732 Northport AL |  | 2026-11-23 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2723732-Northport-AL/Customer-Service-Representative_R638259-1) |
-| Customer Service Representative | circlek | Store 4705234 Salem OH |  | 2026-11-23 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-4705234-Salem-OH/Customer-Service-Representative_R638261-1) |
-| Customer Service Representative | circlek | Store 2706681 Lanett Pj AL |  | 2026-11-23 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2706681-Lanett-Pj-AL/Customer-Service-Representative_R638264-1) |
+| Bilingual Client Services Rep (Mon. - Fri. from 7am to 4pm) | apexcapitalcorp | US TN Memphis |  | 2026-11-23 | [Apply](https://apexcapitalcorp.wd5.myworkdayjobs.com/en-US/jobsattcs/job/US-TN-Memphis/Bilingual-Client-Services-Specialist_R867) |
+| Customer Service Supervisor | asu | Campus: Tempe |  | 2026-11-23 | [Apply](https://asu.wd1.myworkdayjobs.com/en-US/asustaffcareers/job/Campus-Tempe/Customer-Service-Supervisor_JR129517-1) |
+| Customer Service Representative | towerloan | Huntsville AL |  | 2026-11-23 | [Apply](https://towerloan.wd12.myworkdayjobs.com/en-US/tower_loan_careers/job/Huntsville-AL/Customer-Service-Representative_JR2432) |
+| Customer Service Representative | copart | Dallas, TX |  | 2026-11-23 | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX/Customer-Service-Representative_JR112886) |
+| Customer Service Representative | copart | San Diego, CA |  | 2026-11-23 | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/San-Diego-CA/Customer-Service-Representative_JR111949-1) |
+| Customer Service | copart | Columbus, OH |  | 2026-11-23 | [Apply](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Columbus-OH/Customer-Service_JR112925) |
+| Customer Service Representative | boydgroup | NC Durham-Durham-Chapel Hill Blvd - 147507 |  | 2026-11-23 | [Apply](https://boydgroup.wd1.myworkdayjobs.com/en-US/boydcareers/job/NC-Durham-Durham-Chapel-Hill-Blvd---147507/Customer-Service-Representative_R068629) |
+| Customer Service Representative | circlek | Store 2720170 Greensboro NC |  | 2026-11-23 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2720170-Greensboro-NC/Customer-Service-Representative_R638284-1) |
+| Customer Service Representative | circlek | Store 2703480 Phoenix AZ |  | 2026-11-23 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2703480-Phoenix-AZ/Customer-Service-Representative_R638288-1) |
+| Customer Service Representative | circlek | Store 4707082 Fairfield ME |  | 2026-11-23 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-4707082-Fairfield-ME/Customer-Service-Representative_R638296-1) |
+| Customer Service Team Lead | basspro | Arizona: Tucson Bass Pro Shops |  | 2026-11-23 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Arizona-Tucson-Bass-Pro-Shops/Customer-Service-Team-Lead_R273227) |
+| Hunting Salesfloor/Customer Service Associate- Part Time | basspro | Rocklin, CA |  | 2026-11-23 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Rocklin-CA/Hunting-Salesfloor-Customer-Service-Associate--Part-Time_R273176) |
+| Customer Service Representative | CVS Health | 48 Locations |  | 2026-11-23 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Work-from-home/Customer-Service-Representative_R1077004) |
+| Customer Service & Retail Sales Floor Support - Middlesex Commons Rack | Nordstrom | Burlington, MA |  | 2026-11-23 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Burlington-MA/Customer-Service---Retail-Sales-Floor-Support---Middlesex-Commons-Rack_R-900316) |
+| Seasonal Customer Service & Sales Floor Support- Rack at 31st & 6th | Nordstrom | New York, NY |  | 2026-11-23 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/New-York-NY/Seasonal-Customer-Service---Sales-Floor-Support--Rack-at-31st---6th_R-900321) |
+| Customer Service - Marketplace at Braintree Rack | Nordstrom | Braintree, MA |  | 2026-11-23 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Braintree-MA/Customer-Service---Marketplace-at-Braintree-Rack_R-900335) |
+| Veterinary Client Services Phone Specialists | veritasvetpartners | 1200 Route 9, Woodbridge NJ 07095 |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/veritasvetpartners/jobs/5491926008) |
+| Product Support Specialist | Quadient1 | Irvine, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/Quadient1/744000163241239) |
+| Customer Service - Self Storage Manager | Public Storage | Brown Deer, WI, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000163261054) |
+| Customer Service - Self Storage Manager | Public Storage | Greenfield, WI, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000163260170) |
+| Customer Service - Self Storage Manager | Public Storage | Milwaukee, WI, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000163261339) |
+| HIM ROI Customer Service Representative | Northwestern Memorial Healthcare | Palos Heights, IL, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000163240180) |
+| Customer Support Analyst | onetrust | Atlanta, Georgia |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/onetrust/jobs/8305898) |
+| Customer Onboarding Manager | Justworks | New York, New York |  | 2026-11-23 | [Apply](https://boards.greenhouse.io/justworks/jobs/8404062?gh_jid=8404062) |
+| Domino's Customer Service Rep (03525) | Domino's | Braselton, GA, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163254600) |
+| Domino's Customer Service Rep (04100) | Domino's | Athens, GA, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163259829) |
+| Domino's Customer Service Rep (08981) | Domino's | Loganville, GA, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163261447) |
+| Customer Success Manager | RunSybil | United States |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/runsybil-jobs/d6d0769f-be1a-4e44-b1f9-d7c17f787e62) |
+| Customer Solutions Associate | perchwell | United States - Remote |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/Perchwell/f5becc00-238c-421e-9263-ea4d169c6384) |
+| Supervisor, Customer Support l Onsite - Chesterfield | blinkhealth | Chesterfield, MO |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/blinkhealth/jobs/8958387002) |
+| Renewals Manager | astronomer | Remote (United States) |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/astronomer/5ef1f81f-ab4a-4268-9886-f8f9afe2f289) |
 | Customer Service Liaison | shipmonk | Pittston, Pennsylvania, United States |  | 2026-11-23 | [Apply](https://job-boards.eu.greenhouse.io/shipmonk/jobs/5016596101) |
 | CPC Processor Customer Support - Afterhours | datavant2 | Remote - United States |  | 2026-11-23 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5480176008) |
 | CPC Processor Customer Support | datavant2 | Remote - United States |  | 2026-11-23 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5480061008) |
 | CPC Processor Customer Support I | datavant2 | Remote - United States |  | 2026-11-23 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5470337008) |
-| Customer Service Rep(06984) - 10910 North Central Expressway, Suite 60 | Domino's | Dallas, TX, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163107799) |
-| Customer Service Rep(5852) - 2304 Columbiana Road | Domino's | Vestavia Hills, AL, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163107347) |
-| Customer Service Rep (5182) - 101 Nature Walk Prkwy | Domino's | St. Augustine, FL, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163107849) |
 | Customer Service Specialist | Sherwin-Williams | Kosciusko, MS, United States |  | 2026-11-22 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629851) |
-| Work From Home - Part-Time Member Services Representative | Aogarciaagency | Stillwater, Oklahoma |  | 2026-11-22 | [Apply](https://jobs.lever.co/aogarciaagency/eba5d291-2dd1-4631-b5db-877b54ffd548) |
-| Work From Home - Part-Time Member Services Representative | Aogarciaagency | Pocatello, Idaho |  | 2026-11-22 | [Apply](https://jobs.lever.co/aogarciaagency/b3286bee-e535-4db7-8205-ab0f043886a3) |
-| Work From Home - Member Services Representative | Aogarciaagency | Portsmouth, Virginia |  | 2026-11-22 | [Apply](https://jobs.lever.co/aogarciaagency/6ad0bce5-1ed5-4c3f-b483-79f67cf9dc74) |
+| Client Support Representative - Remote Data Entry Clerk | usasurveyjob | Riverside, California |  | 2026-11-22 | [Apply](https://jobs.lever.co/usasurveyjob/1435e37d-c7ae-4c95-83d7-e88fbae654f0) |
 | Client Service Associate | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163097279) |
 | Customer Success Specialist, Renewals & Growth | leveltenenergy | Denver, CO; Seattle, WA; Remote, US |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/leveltenenergy/jobs/6236410004) |
+| End User Support Specialist | CFS Brands | Oklahoma City, OK, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ce3ea629-7c88-404d-b58a-b90fae72d625&ccId=19000101_000001&jobId=585823&lang=en_US&source=CC2) |
 | Store Customer Service Specialist | Sherwin-Williams | Auburn, AL, United States |  | 2026-11-21 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629441) |
-| Customer Service - Self Storage Manager | Public Storage | Warwick, RI, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162963509) |
-| Customer Service - Self Storage Manager | Public Storage | Providence, RI, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162963569) |
-| Customer Service - Self Storage Manager | Public Storage | Cranston, RI, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/PublicStorage/744000162963450) |
+| Customer Service Representative - Remote Data Entry Clerk | usasurveyjob | Memphis, Tennessee |  | 2026-11-21 | [Apply](https://jobs.lever.co/usasurveyjob/bacec46f-2666-43d3-af42-18453bbbf08e) |
 | Bilingual Customer Service Specialist (Spanish) | Sherwin-Williams | Tolleson, AZ, United States |  | 2026-11-21 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629845) |
 | Guest Services Agent, Full-Time | AccorHotel | Honolulu, HI, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/AccorHotel/744000162931872) |
 | Customer Service Representative - Lake Village, AR | dynastymanagement | Lake Village, AR |  | 2026-11-21 | [Apply](https://dynastymanagement.wd12.myworkdayjobs.com/en-US/scott_petroleum/job/Lake-Village-AR/Customer-Service-Representative---Lake-Village--AR_JR800) |
@@ -89,12 +111,8 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Customer Service Specialist (Remote) | baxter | United States of America - Remote |  | 2026-11-21 | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/United-States-of-America---Remote/Customer-Service-Specialist--Remote-_JR-212391) |
 | Customer Service - Longview | bmo | Tempe, AZ, USA |  | 2026-11-21 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Tempe-AZ-USA/Customer-Service---Longview_R260032039) |
 | Customer Support Advisor | basspro | Springfield, MO (Bass Pro Shops Base Camp) |  | 2026-11-21 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Customer-Support-Advisor_R273150) |
-| Customer Service Part Time | basspro | Garland, TX |  | 2026-11-21 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Garland-TX/Customer-Service-Part-Time_R273161) |
-| CLUB Customer Service Outfitter - Part Time | basspro | New York: Victor Bass Pro Shops |  | 2026-11-21 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/New-York-Victor-Bass-Pro-Shops/CLUB-Customer-Service-Outfitter---Part-Time_R273157) |
 | Customer Success Manager, Senior Manager | Salesforce | Georgia - Atlanta |  | 2026-11-21 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Customer-Success-Manager--Senior-Manager_JR368539) |
-| Seasonal Customer Service Representative - Park Meadows | Nordstrom | Lone Tree, CO |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Lone-Tree-CO/Seasonal-Customer-Service-Representative---Park-Meadows_R-900116) |
-| Seasonal Customer Service - Tanasbourne Town Center Rack | Nordstrom | Beaverton, OR |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Beaverton-OR/Seasonal-Customer-Service---Tanasbourne-Town-Center-Rack_R-900129) |
-| Customer Service - Clairemont Town Square Rack | Nordstrom | San Diego, CA |  | 2026-11-21 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/San-Diego-CA/Customer-Service---Clairemont-Town-Square-Rack_R-900151) |
+| Customer Service Vision Technician | Mikron | Englewood, CO |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681301) |
 | Customer Service Associate | University Bank | Remote |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4673098) |
 | Customer Service Associate | Bubble Down HR LLC | Tampa, FL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683446) |
 | Customer Service Associate - Full Time | Bubble Down HR LLC | Wesley Chapel, FL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4662603) |
@@ -125,6 +143,7 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Logistics Customer Service Agent - New Orleans | Expeditors | Metairie, LA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000162832539) |
 | Senior Customer Success Manager | prefect | Remote |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/prefect/943b33ab-ff38-42c6-aa5d-08e35cf98c7c) |
 | Customer Support Team Lead, Insurance | Jerry | Dallas, Texas |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/Jerry.ai/c462d2ed-1b1e-4413-95bf-b62d9fb91486) |
+| Customer Success Associate, Velocity | captivateiq | Remote USA |  | 2026-11-20 | [Apply](https://jobs.lever.co/captivateiq/2202888c-0538-4232-86d7-79916bb6d966) |
 | Customer Success Manager | assetwatch | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/assetwatch/jobs/4756936005) |
 | Customer Support | base-power | Austin, TX |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/base-power/e32a8d00-43a8-4231-8654-a51e7cbd1675) |
 | Customer Service Representative | AbbVie | Austin, TX, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017016036) |
@@ -186,25 +205,6 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Customer Support Representative | zoll | Chelmsford, MA |  | 2026-11-20 | [Apply](https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Customer-Support-Representative_R20839) |
 | Customer Service Representative - FT | avisbudget | Miami International Airport |  | 2026-11-20 | [Apply](https://avisbudget.wd1.myworkdayjobs.com/en-US/abg_careers/job/Miami-International-Airport/Customer-Service-Representative---FT_R0184274) |
 | Customer Service Representative - FT | avisbudget | Salt Lake City International Airport |  | 2026-11-20 | [Apply](https://avisbudget.wd1.myworkdayjobs.com/en-US/abg_careers/job/Salt-Lake-City-International-Airport/Customer-Service-Representative---FT_R0183643) |
-| Associate Customer Success Manager | procaresolutions | Denver, CO |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/procaresolutions/jobs/5490623008) |
-| Customer Service Representative | bswift | Remote- US |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/bswift/jobs/4730889006) |
-| DHS Customer Service Specialist (Bilingual) | Arlington County VA | Arlington, VA, United States |  | 2026-11-20 | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1931) |
-| Call Center Support Representative | att | Atlanta, Georgia |  | 2026-11-20 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Atlanta-Georgia/Call-Center-Support-Representative_R-129053) |
-| Real Estate Loan Processing Support Representative | schoolsfirstfcu | Tustin, CA |  | 2026-11-20 | [Apply](https://schoolsfirstfcu.wd115.myworkdayjobs.com/en-US/careers/job/Tustin-CA/Real-Estate-Loan-Processing-Support-Representative_JR106521) |
-| Customer Service Representative I | amynta | 4 Locations |  | 2026-11-20 | [Apply](https://amynta.wd5.myworkdayjobs.com/en-US/global/job/AZ---Remote/Customer-Service-Representative-I_2611-0619) |
-| Customer Service Representative | airtron | Charlotte, NC |  | 2026-11-20 | [Apply](https://airtron.wd108.myworkdayjobs.com/en-US/airtron_careers/job/Charlotte-NC/Customer-Service-Representative_R-102101-1) |
-| Client Success Manager | bbinsurance | West Palm Beach, FL, USA |  | 2026-11-20 | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/West-Palm-Beach-FL-USA/Client-Success-Manager_R26_0000004076) |
-| Customer Service Support Associate - Bob Squad | bobsdf | Rivergate TN |  | 2026-11-20 | [Apply](https://bobsdf.wd1.myworkdayjobs.com/en-US/bobs_careers/job/Rivergate-TN/Customer-Service-Support-Associate---Bob-Squad_R-33285) |
-| AB-Customer Service Associate III | allstate | USA - WA (Remote) |  | 2026-11-20 | [Apply](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---WA-Remote/AB-Customer-Service-Associate-III_R37016-1) |
-| P/T Customer Service Agent | europcar |  |  | 2026-11-20 | [Apply](https://europcar.wd103.myworkdayjobs.com/en-US/europcarcareerpage/job/Chicago/P-T-Customer-Service-Agent_JR116288) |
-| Customer Service Agent | europcar |  |  | 2026-11-20 | [Apply](https://europcar.wd103.myworkdayjobs.com/en-US/europcarcareerpage/job/Orlando/Customer-Service-Agent_JR116356) |
-| Customer Experience Customer Success Specialist | cisco | RTP, North Carolina, US |  | 2026-11-20 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Customer-Experience-Customer-Success-Specialist_2031845-1) |
-| Business Insurance- Customer Service Representative | Travelers | 2 Locations |  | 2026-11-20 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/WA---Spokane-Valley/Business-Insurance--Customer-Service-Representative_R-53828) |
-| Business Insurance- Bi-Lingual Customer Service Representative | Travelers | 3 Locations |  | 2026-11-20 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/WA---Spokane-Valley/Business-Insurance--Bi-Lingual-Customer-Service-Representative_R-53843) |
-| Customer Service Supervisor | University Bank | ANN ARBOR, MI |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679564) |
-| Customer Service Representative | University Bank | ANN ARBOR, MI |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679707) |
-| Customer Service Representative - Carlisle, PA | Classic Drycleaner and Laundromats | Carlisle, PA |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678547) |
-| Peoples Bank Customer Service Representative (Bank Teller) | Peoples Bank WA | Bellingham, WA |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680532) |
 <!-- JOBS_TABLE_END -->
 
 <details>
