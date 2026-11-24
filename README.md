@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>16,238</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>16,616</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-24 08:17 UTC</sub>
+<sub>Snapshot 2026-11-24 12:17 UTC</sub>
 
 </div>
 
@@ -50,14 +50,22 @@ Explore customer service, support, and customer success roles in this fresh slic
 
 ## Open jobs
 
-**16,238 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 08:17 UTC.** Apply links go to the employer's career page or hiring system.
+**16,616 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Bilingual Customer Service Representative | TPIS | Guaynabo, PR, PR |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=12f99e8b-f700-44cf-b7fe-f4e144c84653&ccId=19000101_000001&jobId=606465&lang=en_US&source=CC2) |
+| Customer Service Specialist | Sherwin-Williams | Vestavia Hills, AL, United States |  | 2026-11-24 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629949) |
+| Renewals Manager | Raydar | New York, New York, US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/A72010637A) |
+| Customer Implementation Manager | Raydar | Chicago, Illinois, US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/163086F26C) |
+| Customer Service Representative | circlek | Store 4705328 Sebring OH |  | 2026-11-24 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-4705328-Sebring-OH/Customer-Service-Representative_R638716-1) |
+| Customer Service Representative | circlek | Store 4705328 Sebring OH |  | 2026-11-24 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-4705328-Sebring-OH/Customer-Service-Representative_R638717-1) |
+| Customer Service Representative | circlek | Store 2705144 Columbia SC |  | 2026-11-24 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2705144-Columbia-SC/Customer-Service-Representative_R638721-1) |
+| Remote Customer Service Representative | Jobs for Humanity | Chicago, IL, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000163415809) |
+| Emerging Customer Success Manager | everway | Remote, USA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/everway/jobs/4728837006) |
+| Deputy Director - Customer Service | City of New York | New York City, NY, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017054246) |
+| Customer Success Manager | goodstack | 🇺🇸 USA |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/goodstack/e33e7131-c1b0-451e-8ee3-7e3943254c82) |
 | Laboratory Customer Service Representative - Lab-Admin | uvmhealth | Plattsburgh, NY |  | 2026-11-24 | [Apply](https://uvmhealth.wd1.myworkdayjobs.com/en-US/cvph/job/Plattsburgh-NY/Laboratory-Customer-Service-Representative---Lab-Admin_R0092066-1) |
-| Customer Service Representative | circlek | Store 2707157 Bushnell FL |  | 2026-11-24 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2707157-Bushnell-FL/Customer-Service-Representative_R638370-1) |
 | Retail Customer Service Associate Part Time | bjswholesaleclub | Sevierville, TN #0268 |  | 2026-11-24 | [Apply](https://bjswholesaleclub.wd1.myworkdayjobs.com/en-US/bjscareers/job/Sevierville-TN-0268/Retail-Customer-Service-Associate-Part-Time_R263021) |
 | Customer Service Representative - Fashion Island | Nordstrom | Newport Beach, CA |  | 2026-11-24 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Newport-Beach-CA/Customer-Service-Representative---Fashion-Island_R-898102) |
 | Customer Service Associate | SaludFamilyHealthCenters | Fort Collins, CO, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/SaludFamilyHealthCenters/744000163342679) |
@@ -70,12 +78,17 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Manager, Customer Service | asu | Campus: Tempe |  | 2026-11-24 | [Apply](https://asu.wd1.myworkdayjobs.com/en-US/asustaffcareers/job/Campus-Tempe/Manager--Customer-Service_JR129179-1) |
 | Customer Success Manager | zillow | 23 Locations |  | 2026-11-24 | [Apply](https://zillow.wd5.myworkdayjobs.com/en-US/zillow_group_external/job/Remote-USA/Customer-Success-Manager_P751919-1) |
 | Customer Service Representative | boydgroup | WI Eagle River - 162027 |  | 2026-11-24 | [Apply](https://boydgroup.wd1.myworkdayjobs.com/en-US/boydcareers/job/WI-Eagle-River---162027/Customer-Service-Representative_R068547-1) |
-| Customer Service Representative | circlek | Store 2709537 Tempe AZ |  | 2026-11-24 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2709537-Tempe-AZ/Customer-Service-Representative_R638642-1) |
-| Customer Service Representative | circlek | Store 2709565 Las Vegas NV |  | 2026-11-24 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2709565-Las-Vegas-NV/Customer-Service-Representative_R638649-1) |
 | CLUB Customer Service Outfitter - Part Time | basspro | Lubbock, TX |  | 2026-11-24 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Lubbock-TX/CLUB-Customer-Service-Outfitter---Part-Time_R273327) |
 | Technical Support Representative | CVS Health | RI - Work from home |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Work-from-home/Technical-Support-Representative_R1110205-1) |
 | Seasonal Sales Floor Support or Seasonal Customer Service - Pacific Coast Plaza... | Nordstrom | Oceanside, CA |  | 2026-11-24 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Oceanside-CA/Seasonal-Sales-Floor-Support-or-Seasonal-Customer-Service---Pacific-Coast-Plaza-Rack_R-900484) |
 | Customer Service & Sales Floor Support - Wayne Towne Center Rack | Nordstrom | Wayne, NJ |  | 2026-11-24 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Wayne-NJ/Customer-Service---Sales-Floor-Support---Wayne-Towne-Center-Rack_R-900505) |
+| Customer Service Specialist | Commonwealth of Massachusetts | Boston, MA, US |  | 2026-11-23 | [Apply](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=2600085S&lang=en) |
+| Customer Service Representative | Howmet Aerospace | Rancho Cucamonga, CA, United States |  | 2026-11-23 | [Apply](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120435) |
+| Customer Service Specialist | Sherwin-Williams | Owasso, OK, United States |  | 2026-11-23 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629934) |
+| Customer Service Specialist | Sherwin-Williams | Provo, UT, United States |  | 2026-11-23 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629925) |
+| Technical Support Specialist 1 | Hologic | San Diego, CA, United States |  | 2026-11-23 | [Apply](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12803) |
+| Client Services Representative - Shelter | ADP employer 22ee81f5 | Virginia Beach, VA, US |  | 2026-11-23 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=22ee81f5-d579-46ec-955e-f9fd2eb24cdd&ccId=19000101_000001&jobId=625310&lang=en_US&source=CC2) |
+| Customer Success Manager | Raspberry Pi Foundation | Atlanta, Georgia, US |  | 2026-11-23 | [Apply](https://apply.workable.com/j/6142A5F138) |
 | Customer Service Advisor - Grafton St | Scrub-A-Dub Auto Wash Centers Inc | Worcester, MA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686386) |
 | Customer Service Advisor - Natick | Scrub-A-Dub Auto Wash Centers Inc | Natick, MA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4686813) |
 | Customer Service Advisor - Medford | Scrub-A-Dub Auto Wash Centers Inc | Medford, MA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4687022) |
@@ -151,12 +164,9 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Customer Service Liaison | shipmonk | Pittston, Pennsylvania, United States |  | 2026-11-23 | [Apply](https://job-boards.eu.greenhouse.io/shipmonk/jobs/5016596101) |
 | CPC Processor Customer Support - Afterhours | datavant2 | Remote - United States |  | 2026-11-23 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5480176008) |
 | CPC Processor Customer Support | datavant2 | Remote - United States |  | 2026-11-23 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5480061008) |
-| Customer Service Specialist | Sherwin-Williams | Kosciusko, MS, United States |  | 2026-11-22 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629851) |
+| Client Support Representative - Remote Data Entry Clerk | usasurveyjob | Riverside, California |  | 2026-11-22 | [Apply](https://jobs.lever.co/usasurveyjob/1435e37d-c7ae-4c95-83d7-e88fbae654f0) |
 | Client Service Associate | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163097279) |
-| Store Customer Service Specialist | Sherwin-Williams | Auburn, AL, United States |  | 2026-11-21 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629441) |
-| Customer Services - Cashier | TPIS | Caguas, PR, PR |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=12f99e8b-f700-44cf-b7fe-f4e144c84653&ccId=19000101_000001&jobId=605174&lang=en_US&source=CC2) |
-| Customer Services - Cashier | TPIS | Caguas, PR, PR |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=12f99e8b-f700-44cf-b7fe-f4e144c84653&ccId=19000101_000001&jobId=606151&lang=en_US&source=CC2) |
-| Bilingual Customer Service Specialist (Spanish) | Sherwin-Williams | Tolleson, AZ, United States |  | 2026-11-21 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629845) |
+| Customer Service Representative - Remote Data Entry Clerk | usasurveyjob | Memphis, Tennessee |  | 2026-11-21 | [Apply](https://jobs.lever.co/usasurveyjob/bacec46f-2666-43d3-af42-18453bbbf08e) |
 | Guest Services Agent, Full-Time | AccorHotel | Honolulu, HI, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/AccorHotel/744000162931872) |
 | Customer Service Representative - Lake Village, AR | dynastymanagement | Lake Village, AR |  | 2026-11-21 | [Apply](https://dynastymanagement.wd12.myworkdayjobs.com/en-US/scott_petroleum/job/Lake-Village-AR/Customer-Service-Representative---Lake-Village--AR_JR800) |
 | Call Center Representative | ascensushr | 13 Locations |  | 2026-11-21 | [Apply](https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Chicago-IL/Call-Center-Representative_R0022930) |
@@ -170,6 +180,7 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Customer Service Specialist (Remote) | baxter | United States of America - Remote |  | 2026-11-21 | [Apply](https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/United-States-of-America---Remote/Customer-Service-Specialist--Remote-_JR-212391) |
 | Customer Service - Longview | bmo | Tempe, AZ, USA |  | 2026-11-21 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/external/job/Tempe-AZ-USA/Customer-Service---Longview_R260032039) |
 | Customer Success Manager, Senior Manager | Salesforce | Georgia - Atlanta |  | 2026-11-21 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Customer-Success-Manager--Senior-Manager_JR368539) |
+| Client Success Manager I | Definiti LLC | Erie, PA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683807) |
 | Customer Service Representative | State Savings Bank | Beulah, MI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683401) |
 | Salesforce Specialist, Client Success | Navari | Fully Remote - Michigan Based Only |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683830) |
 | Customer Service Representative – ON CALL | HeiTech Services | Greer, SC |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3739441) |
@@ -190,21 +201,10 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Assistant Customer Experience Manager - Call Center | Standard Heating & Air Conditioning Inc | Minneapolis, MN |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681779) |
 | Customer Service Representative | OpenRoad | Baytown, TX |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682151) |
 | Cashier/Customer Service Representative | Mercedes-Benz of Fredericksburg | Fredericksburg, VA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/1681125) |
-| Customer Service Representative - NOT REMOTE | ATA | Albuquerque, NM, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=16dacedb-7a98-4245-99e5-71caf71992fa&ccId=19000101_000001&jobId=600389&lang=en_US&source=CC2) |
 | Specialist, Customer Success (Higher Education) | Pearson | United States |  | 2026-11-20 | [Apply](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26639) |
 | Customer Support Representative (Dallas, Texas) | Texas Instruments | Dallas, TX, United States |  | 2026-11-20 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019849) |
 | Member Services | YMCA of Greater Dayton | Springboro, OH, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/daytonymca/job/oE28Afw8) |
 | Member Services Representative - Onsite - Bilingual | Conversio Health Careers | San Luis Obispo, CA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683968) |
-| Customer Service Coordinator | urschellaboratoriesinc | Chesterton, IN |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/urschellaboratoriesinc/jobs/4517969009) |
-| Customer Support Specialist | granum | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/granum/jobs/8937188002) |
-| Customer Support Analyst | Centegix | Atlanta, GA |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4657686) |
-| Customer Success Manager II, SMB - On Demand | Toast | Boston, Ma |  | 2026-11-20 | [Apply](https://careers.toasttab.com/jobs?gh_jid=8350508) |
-| Customer Success Manager II, SMB - On Demand | Toast | Remote - US |  | 2026-11-20 | [Apply](https://careers.toasttab.com/jobs?gh_jid=8350506) |
-| Customer Success Executive | ServiceNow | Santa Clara, CALIFORNIA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162826809) |
-| Customer Success Adoption Specialist | Samsara | Remote - CA; Remote - Chicago; Remote - Houston |  | 2026-11-20 | [Apply](https://www.samsara.com/company/careers/roles/8400979?gh_jid=8400979) |
-| Member Services Senior Associate | Maven Clinic | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/mavenclinic/jobs/8957323002) |
-| Customer Service Remote Agent Position | Jobs for Humanity | Minneapolis, MN, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000162826599) |
-| Ocean Import Customer Service Agent | Expeditors | Hawthorne, CA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000162827259) |
 <!-- JOBS_TABLE_END -->
 
 <details>
