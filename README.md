@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-customer-service-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-customer-service-jobs-light.svg"><img alt="Customer service and support jobs: JobHacki job list, last updated on Nov 24, 2026" src="assets/dist/hero-customer-service-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-customer-service-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-customer-service-jobs-light.svg"><img alt="Customer service and support jobs: JobHacki job list, last updated on Nov 25, 2026" src="assets/dist/hero-customer-service-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>16,532</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>16,846</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-24 23:07 UTC</sub>
+<sub>Snapshot 2026-11-25 00:18 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-Explore customer service, support, and customer success roles in this fresh slice of jobs taken from employers' own hiring systems. Updated Nov 24, 2026.
+Explore customer service, support, and customer success roles in this fresh slice of jobs taken from employers' own hiring systems. Updated Nov 25, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,16 +50,22 @@ Explore customer service, support, and customer success roles in this fresh slic
 
 ## Open jobs
 
-**16,532 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 23:07 UTC.** Apply links go to the employer's career page or hiring system.
+**16,846 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 00:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Customer Service Representative | circlek | Store 2740277 Deer Park TX |  | 2026-11-25 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2740277-Deer-Park-TX/Customer-Service-Representative_R638959-1) |
+| Customer Service Representative | circlek | Store 2706870 Chula Vista CA |  | 2026-11-25 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2706870-Chula-Vista-CA/Customer-Service-Representative_R638960-1) |
+| Customer Service Representative | circlek | Store 2706856 Zillah WA |  | 2026-11-25 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2706856-Zillah-WA/Customer-Service-Representative_R638962-1) |
+| Account Support Specialist | Atomus Partners LLC | United States |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691566) |
+| Customer Service Representative | Pathfinder Bank | Oswego, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4685448) |
+| Customer Service Representative - P/T | Pathfinder Bank | Oswego, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678644) |
+| Client Support Analyst I | smarterdx | Remote (United States) |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/smarterdx/jobs/5308053007) |
+| Customer Service Delivery Advocate | carvana | Albany, NY |  | 2026-11-24 | [Apply](https://www.carvana.com/careers/apply?gh_jid=8415735) |
+| Customer Success Manager | basata | Tempe, Arizona |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/basata/b77bc5e7-2408-407e-b5cd-0141fcd3b33f) |
 | Client Success Manager I | marathonhealth | Remote GA - Southeast |  | 2026-11-24 | [Apply](https://marathonhealth.wd501.myworkdayjobs.com/en-US/marathon-health-careers/job/Remote-GA---Southeast/Client-Success-Manager-I_JR109430) |
 | Customer Success Associate | wk | USA - Madison, WI, Junction Rd |  | 2026-11-24 | [Apply](https://wk.wd3.myworkdayjobs.com/en-US/external/job/USA---Madison-WI-Junction-Rd/Customer-Success-Associate_R0061186) |
-| Customer Service Representative | circlek | Store 2702885 Phoenix AZ |  | 2026-11-24 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2702885-Phoenix-AZ/Customer-Service-Representative_R638944-1) |
-| Customer Service Representative | circlek | Store 2709420 Anaheim CA |  | 2026-11-24 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2709420-Anaheim-CA/Customer-Service-Representative_R638945-1) |
-| Customer Service Representative | circlek | Store 2747524 Pendleton IN |  | 2026-11-24 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2747524-Pendleton-IN/Customer-Service-Representative_R638946-1) |
 | Customer Service Team Lead - Full Time | basspro | Gainesville, VA |  | 2026-11-24 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Gainesville-VA/Customer-Service-Team-Lead---Full-Time_R273398) |
 | CLUB Customer Service Outfitter | basspro | Denham Springs, LA |  | 2026-11-24 | [Apply](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Denham-Springs-LA/CLUB-Customer-Service-Outfitter_R273415-1) |
 | Seasonal Customer Service - Kildeer Village Square Rack | Nordstrom | Kildeer, IL |  | 2026-11-24 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Kildeer-IL/Seasonal-Customer-Service---Kildeer-Village-Square-Rack_R-900807) |
@@ -69,7 +75,7 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Patient Care Coordinator | lakefieldveterinarygroup | Lakefield Veterinary Group - Kent, WA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/lakefieldveterinarygroup/jobs/4522849009) |
 | Customer Support Representative-Contact Center | dhpace | Atlanta GA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/dhpace/jobs/5494039008) |
 | Order Management Specialist I | Carlisle Companies | Wylie, Texas, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Carlisle/3743990017077885) |
-| Emerging Enterprise Customer Success Manager | laurel | New York, NY |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/laurel/04efbb72-0cb1-49cd-9dab-f1d52452f8b8) |
+| Emerging Enterprise Customer Success Manager | laurel | New York, NY | $140k-160k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/laurel/04efbb72-0cb1-49cd-9dab-f1d52452f8b8) |
 | Senior Customer Success Manager | halo-cures | Remote - United States |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/halo-cures/b8b4b923-d6f9-461f-afd2-d7a9168005e0) |
 | Call Center Manager | Corserv Holdings Inc | Remote Worker - N/A |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4687248) |
 | Claims Customer Service Advocate III | ourhrconnect | Columbia, South Carolina |  | 2026-11-24 | [Apply](https://ourhrconnect.wd501.myworkdayjobs.com/en-US/scblues/job/Columbia-South-Carolina/Claims-Customer-Service-Advocate-III_R1052435-1) |
@@ -198,13 +204,7 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Principal GTM Onboarding Manager | zoominfo | Bethesda, Maryland, United States; Vancouver, Washington, United Stat... |  | 2026-11-23 | [Apply](https://www.zoominfo.com/careers?gh_jid=8929189002) |
 | End User Compute Support Specialist | watchmakergenomics | Boulder, CO |  | 2026-11-23 | [Apply](https://www.watchmakergenomics.com/company/careers/?gh_jid=5492117008) |
 | Application Support Specialist - Weekend Days (Fri, Sat, Sun, Mon) | sironamedical | Remote |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/sironamedical/jobs/4757748005) |
-| Customer Success Associate | raptortechnologies | Remote - US |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/raptortechnologies/jobs/5470166008) |
 | Business Applications Support Specialist | mirantis | Raleigh, NC, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/mirantis/744000163294329) |
-| Customer Service Representative | guildgaragegroup | Four Seasons - Roselle, IL |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/guildgaragegroup/jobs/4518839009) |
-| SVP, Customer Success, Platform & Partner Programs | EVERSANA | Boston, MA, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/EVERSANA1/744000163293889) |
-| CPC Processor Customer Support | datavant2 | Remote - United States |  | 2026-11-23 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5473334008) |
-| Customer Service Representative (5:00 am - 1:30 pm) | Bosch Group | Itasca, IL, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163290614) |
-| Customer Service Representative (5:00 am - 1:30 pm) | Bosch Group | Itasca, IL, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163291861) |
 <!-- JOBS_TABLE_END -->
 
 <details>
