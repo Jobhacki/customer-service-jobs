@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>18,144</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>17,821</h3><sub>open customer service and support jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-26 16:18 UTC</sub>
+<sub>Snapshot 2026-11-26 20:19 UTC</sub>
 
 </div>
 
@@ -50,22 +50,24 @@ Explore customer service, support, and customer success roles in this fresh slic
 
 ## Open jobs
 
-**18,144 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 16:18 UTC.** Apply links go to the employer's career page or hiring system.
+**17,821 open customer service and support jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-26 20:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Customer Service Representative | circlek | Store 2707421 Melbourne FL |  | 2026-11-26 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2707421-Melbourne-FL/Customer-Service-Representative_R639301-1) |
+| Customer Service Representative | circlek | Store 2747552 Leo IN |  | 2026-11-26 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2747552-Leo-IN/Customer-Service-Representative_R639316-1) |
+| Customer Service Representative | circlek | Store 2709307 Alexander City AL |  | 2026-11-26 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2709307-Alexander-City-AL/Customer-Service-Representative_R639317-1) |
+| Inbound Phone Banker/Customer Service Representative | Jobs for Humanity | Indian Trail, NC, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000163913425) |
+| Inbound Customer Service Representative (Financial) | Jobs for Humanity | Morrow, GA, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000163921714) |
+| Founding Customer Success Engineer | tracebit | New York | $140k-180k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/tracebit/44c9e07e-4205-4058-9676-28112c4c8da6) |
 | Retail Support Agent (6 months) | albertamotorassociation | CA-AB-Calgary-Crowfoot |  | 2026-11-26 | [Apply](https://albertamotorassociation.wd3.myworkdayjobs.com/en-US/ama/job/CA-AB-Calgary-Crowfoot/Retail-Support-Agent--6-months-_JR103026-1) |
-| Customer Service Representative | circlek | Store 2709576 Surprise AZ |  | 2026-11-26 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2709576-Surprise-AZ/Customer-Service-Representative_R639287-1) |
-| Customer Service Representative | circlek | Store 2706628 Theodore AL |  | 2026-11-26 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2706628-Theodore-AL/Customer-Service-Representative_R639288-1) |
-| Customer Service Representative | circlek | Store 2743383 Chardon OH |  | 2026-11-26 | [Apply](https://circlek.wd3.myworkdayjobs.com/en-US/circlekstorejobs/job/Store-2743383-Chardon-OH/Customer-Service-Representative_R639295-1) |
 | Head of Customer Success - NA | scoreplay | NYC |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/scoreplay/b1b999df-f7f4-4276-ada9-e9215072bd06) |
 | Senior Customer Success Manager | Alpaca | Remote - EMEA |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/alpaca/jobs/6268426004) |
 | Customer Support Agent - Orders Team | autods | Remote |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/autods/jobs/5495191008) |
 | Customer Support Agent - Billing Team | autods | Remote |  | 2026-11-26 | [Apply](https://job-boards.greenhouse.io/autods/jobs/5495210008) |
 | Senior Technical Support Specialist | spscommerce | 2 Locations |  | 2026-11-26 | [Apply](https://spscommerce.wd108.myworkdayjobs.com/en-US/sps/job/United-States-Remote/Senior-Technical-Support-Specialist_R-001496-1) |
 | Customer Service Rep | Jobs for Humanity | Minnetonka, MN, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000163813779) |
-| Copy of Customer Service Rep | Jobs for Humanity | Absaraka, ND, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/JobsForHumanity/744000163817124) |
 | Seasonal & Regular Customer Service or Retail Sales Floor Support - Midtown Mal... | Nordstrom | Anchorage, AK |  | 2026-11-26 | [Apply](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Anchorage-AK/Seasonal---Regular-Customer-Service-or-Retail-Sales-Floor-Support---Midtown-Mall-Rack_R-901099) |
 | Customer Service Rep(03633) - 157 Levittown Pkwy | Domino's | Hicksville, NY, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163777899) |
 | Customer Service Rep (06887) - 6633 N Mesa St | Domino's | El Paso, TX, US |  | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163778029) |
@@ -74,7 +76,7 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Order Support Specialist III | abbott | United States - Illinois - Abbott Park |  | 2026-11-26 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/Order-Support-Specialist-III_31168344-1) |
 | Customer Service Representative - Insurance | ace | Coppell, TX, Remote |  | 2026-11-26 | [Apply](https://ace.wd5.myworkdayjobs.com/en-US/careers/job/Coppell-TX-Remote/Customer-Service-Representative---Insurance_JR202640649) |
 | Customer Service Support Representative - Lab (Remote) | Labcorp | 2 Locations |  | 2026-11-26 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/USA---OH---Wheelersburg---8991-Ohio-River-Road/Customer-Service-Support-Representative---Lab--Remote-_2641508) |
-| Customer Service Representative | Minnesota. Northview Bank | Barnum, MN, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=15f83735-3fc9-43b6-964d-ea914e906aae&ccId=19000101_000001&jobId=956194&lang=en_US&source=CC2) |
+| Associate Software Support Specialist | Tyler Technologies | Lubbock, TX, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/tylertech/job/oGg4Afwk) |
 | Senior Manager, Customer Success | Honeywell | Houston, TX, United States |  | 2026-11-25 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162592) |
 | Bilingual Customer Service Specialist (Spanish) | Sherwin-Williams | Phoenix, AZ, United States |  | 2026-11-25 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2630096) |
 | Bilingual Multi-Location Customer Service Specialist (Spanish) | Sherwin-Williams | Coeur d'Alene, ID, United States |  | 2026-11-25 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2630079) |
@@ -111,9 +113,6 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Senior Customer Success Manager | pantheon | United States (Remote), Canada (Remote) |  | 2026-11-25 | [Apply](https://pantheon.io/about/careers/detail?gh_jid=8414759) |
 | Customer Success Support Associate | murj | Remote - US |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/murj/jobs/5409437008) |
 | Senior Director, Customer Success | litmos | United States |  | 2026-11-25 | [Apply](https://job-boards.eu.greenhouse.io/litmos/jobs/5048081101) |
-| Client Support Representative - Remote Data Entry Clerk | usasurveyjob | Lewisville, Texas |  | 2026-11-25 | [Apply](https://jobs.lever.co/usasurveyjob/f7cccfbb-f76f-4b76-8e54-94af9075187e) |
-| Client Support Representative - Remote Data Entry Clerk | usasurveyjob | Waterbury, Connecticut |  | 2026-11-25 | [Apply](https://jobs.lever.co/usasurveyjob/e39542aa-7c6a-4acc-9dfc-722b3fe82068) |
-| Client Support Representative - Remote Data Entry Clerk | usasurveyjob | Billings, Montana |  | 2026-11-25 | [Apply](https://jobs.lever.co/usasurveyjob/be56be01-eb9d-468d-b5ec-11f21d5630c5) |
 | General Manager of Logistics and Customer Services | IngramBargeCompany | Nashville, TN, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/IngramBargeCompany/744000163736980) |
 | Domestic Logistics Customer Service Coordinator | Expeditors | Hawthorne, CA, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/Expeditors/744000163750787) |
 | Customer Support Specialist I | equipmentsharecom | Columbia, MO (Headquarters) |  | 2026-11-25 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8414874) |
@@ -154,6 +153,7 @@ Explore customer service, support, and customer success roles in this fresh slic
 | Technical Support Specialist I | Sundt | Tempe, AZ, United States |  | 2026-11-24 | [Apply](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11972) |
 | Contact Center Representative | Saco Valley Credit Union | Waterboro, ME |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690047) |
 | Client Support Representative | AVA Law Group, PLLC | Billings, MT |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4689649) |
+| Technical Support Specialist | kpaonline | Remote |  | 2026-11-24 | [Apply](https://jobs.lever.co/kpaonline/14d51a81-0a8e-4bd7-93fe-bb5ee8c0394e) |
 | Account Support Specialist | Atomus Partners LLC | United States |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691566) |
 | Customer Service Representative | Pathfinder Bank | Oswego, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4685448) |
 | Customer Service Representative - P/T | Pathfinder Bank | Oswego, NY |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678644) |
